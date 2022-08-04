@@ -1,6 +1,4 @@
-<picture>
-  <img alt="Shows an illustrated paper prototype design." src="https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/PP1.png">
-</picture>
+<img alt="Shows an illustrated paper prototype design." src="https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/PP1.png">
 
 <h3>In this project, I demonstrate my ability to analyze user interface/user experience design fundamentals
 and develop user interface/user experience for mobile and touch-based systems based on the following user story:</h3>
