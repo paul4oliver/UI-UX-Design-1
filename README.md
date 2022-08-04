@@ -1,3 +1,4 @@
+<img src="https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/Persona1.jpg" alt="Logo">
 <h3>In this project, I demonstrate my ability to analyze user interface/user experience design fundamentals
 and develop user interface/user experience for mobile and touch-based systems based on the following user story:</h3>
 
