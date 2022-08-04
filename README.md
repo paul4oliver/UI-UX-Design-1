@@ -1,5 +1,5 @@
 <h3>In this project, I demonstrate my ability to analyze user interface/user experience design fundamentals
-and develop user interface/user experience for mobile and touch-based systems based off the following user story:</h3>
+and develop user interface/user experience for mobile and touch-based systems based on the following user story:</h3>
 
 <i>As a grower, I want to view a dashboard that informs me of the moisture content and nitrogen level in the soil at each of my trees so that I can easily target water use and track nitrogen levels.</i>
 
