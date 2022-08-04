@@ -1,5 +1,5 @@
-<img src="https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/PP1.png">
 
+![Image](https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/PP1.png)
 <h3>In this project, I demonstrate my ability to analyze user interface/user experience design fundamentals
 and develop user interface/user experience for mobile and touch-based systems based on the following user story:</h3>
 
@@ -32,4 +32,4 @@ Applied design best practices to the digital wireframe.<br>
 Explained the rationale behind design decisions.<br>
 Discussed how the wireframe could be adapted to a digital watch.<br>
 Discussed how the wireframe could be adapted to a touch-based kiosk.<br>
-<img src="https://github.com/paul4oliver/UI-UX-Design-1/blob/main/Assets/PP1.png">
+
